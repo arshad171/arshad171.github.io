@@ -394,7 +394,21 @@ ninja.data = [{
             },},{id: "news-i-am-an-exicted-to-commence-my-ph-d-journey-at-kth-royal-institute-of-technology-sweden",
           title: 'I am an exicted to commence my Ph.D. journey at KTH Royal Institute...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-best-paper-award-for-perx-at-the-20th-swedish-national-computer-networking-and-cloud-computing-workshop-sncnw-2025",
+          title: 'Best paper award for PERX at the 20th Swedish National Computer Networking and...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-attending-a-summer-school-on-hands-on-6g-with-slices-ri-infrastructure-at-institute-for-systems-and-computer-engineering-technology-and-science",
+          title: 'I will be attending a summer school on Hands-on 6G with SLICES-RI infrastructure...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-presenting-a-poster-on-perx-at-the-kth-aachen-wireless-networking-workshop",
+          title: 'I will be presenting a poster on PERX at the KTH-Aachen Wireless Networking...',
+          description: "",
+          section: "News",},{id: "news-beat-perx-optimizer",
+          title: 'Beat PERX optimizer!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-09-10-safecomp/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
