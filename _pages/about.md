@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate at the Division of Networks and Systems Engineering (NSE), school of Electrical Engineering and Computer Science (EECS) at KTH. My thesis titled _Optimization and Learning in Edge Computing_ is supervised by Prof. György Dán and Prof. Vikoria Fodor.
+I am a PhD candidate at the Division of Networks and Systems Engineering (NSE), school of Electrical Engineering and Computer Science (EECS) at KTH. My thesis titled _Optimization and Learning in Edge Computing_ is supervised by [Prof. György Dán](https://www.kth.se/profile/gyuri) and [Prof. Vikoria Fodor](https://www.kth.se/profile/vjfodor).
 
 My research focus lies in the interplay of contemporary machine learning algorithms and the classical optimization techniques in tackling latency-constrained service orchestration. I am interested in developing pragmatic solutions towards high performance computing to enable intelligent use-cases at the Edge.
 
