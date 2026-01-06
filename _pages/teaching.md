@@ -18,12 +18,12 @@ nav_order: 5
 ">
   <div>
     <strong>
-        <a href="https://www.kth.se/student/kurser/kurs/EH2720?l=en" style="text-decoration: none; color: inherit;">
+        <a href="https://www.kth.se/student/kurser/kurs/EH2720?l=en" style="text-decoration: underline; color: inherit;">
             EH2720 Management of Projects
         </a>
     </strong>
     <br>
-    <span>Teaching assistant</span>
+    <span><em>Teaching assistant</em></span>
   </div>
   <div>
     <span>2024 – present</span>
@@ -43,12 +43,12 @@ nav_order: 5
 ">
   <div>
     <strong>
-        <a href="" style="text-decoration: none; color: inherit;">
+        <a href="" style="text-decoration: underline; color: inherit;">
             Optimizing Kubernetes Scheduling: Balancing Cost, Performance, and Resiliency
-        </a>
+        </a>  - Tianning Liang
     </strong>
     <br>
-    <span>Co-supervisor</span>
+    <span><em>Co-supervisor</em></span>
   </div>
   <div>
     <span>Spring 2025</span>
@@ -68,12 +68,12 @@ nav_order: 5
 ">
   <div>
     <strong>
-        <a href="https://www.compute.lu.se/article/image-analysis/" style="text-decoration: none; color: inherit;">
+        <a href="https://www.compute.lu.se/article/image-analysis/" style="text-decoration: underline; color: inherit;">
             FMAN20 Image Analysis
         </a>
     </strong>
     <br>
-    <span>Teaching assistant/SI leader</span>
+    <span><em>Teaching assistant/SI leader</em></span>
   </div>
   <div>
     <span>Autumn 2023</span>
@@ -89,12 +89,12 @@ nav_order: 5
 ">
   <div>
     <strong>
-        <a href="https://www.control.lth.se/education/engineering-program/frtn65-modeling-and-learning-from-data/" style="text-decoration: none; color: inherit;">
+        <a href="https://www.control.lth.se/education/engineering-program/frtn65-modeling-and-learning-from-data/" style="text-decoration: underline; color: inherit;">
             FRTN65 Modeling and Learning from Data
         </a>
     </strong>
     <br>
-    <span>Teaching assistant</span>
+    <span><em>Teaching assistant</em></span>
   </div>
   <div>
     <span>Autumn 2023</span>
