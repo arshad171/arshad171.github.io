@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-23'
 papers:
   my-BNd0AAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Temporal Difference Learning, Reinforcement Learning Approach To Determine Optimal Number Of Threads To Use For File Copying
     year: '2020'
   my-BNd0AAAAJ:9yKSN-GCB0IC:
-    citations: 68
+    citations: 67
     title: Performance optimization techniques for ReactJS
     year: '2019'
   my-BNd0AAAAJ:IjCSPb-OGe4C:
@@ -15,7 +15,7 @@ papers:
     year: '2017'
   my-BNd0AAAAJ:Tyk-4Ss8FVUC:
     citations: 1
-    title: Model-assisted Reinforcement Learning of a Quadrotor
+    title: Model-assisted Reinforcement Learning of A Quadrotor
     year: '2023'
   my-BNd0AAAAJ:UeHWp8X0CEIC:
     citations: 0
@@ -30,13 +30,17 @@ papers:
     title: Reinforcement learning-based control of crazyflie 2. x quadrotor
     year: '2023'
   my-BNd0AAAAJ:YsMSGLbcyi4C:
-    citations: 0
+    citations: 1
     title: 'PERX: Energy-aware O-RAN Service Orchestration with Pairwise Performance Profiling'
     year: '2025'
   my-BNd0AAAAJ:d1gkVwhDpl0C:
     citations: 8
     title: A hybrid attention mechanism for multi-target entity relation extraction using graph neural networks
     year: '2023'
+  my-BNd0AAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: 'NeuRO: Inference-time Profiling and Orchestration of ML Applications at the Edge'
+    year: '2026'
   my-BNd0AAAAJ:qjMakFHDy7sC:
     citations: 1
     title: Temporal Difference Learning, Reinforcement Learning Approach To Determine Optimal Number Of Threads To Use For File Copying
