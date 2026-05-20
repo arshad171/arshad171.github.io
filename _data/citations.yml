@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-20'
 papers:
   my-BNd0AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: Revenue Optimal Orchestration of ML-Based Services With Dependencies Under Delay and Quality Constraints in Beyond 5G RAN
     year: '2026'
   my-BNd0AAAAJ:Y0pCki6q_DkC:
-    citations: 5
+    citations: 6
     title: Reinforcement learning-based control of crazyflie 2. x quadrotor
     year: '2023'
   my-BNd0AAAAJ:YsMSGLbcyi4C:
@@ -38,7 +38,7 @@ papers:
     title: 'PERX: Energy-aware O-RAN Service Orchestration with Pairwise Performance Profiling'
     year: '2025'
   my-BNd0AAAAJ:d1gkVwhDpl0C:
-    citations: 8
+    citations: 9
     title: A hybrid attention mechanism for multi-target entity relation extraction using graph neural networks
     year: '2023'
   my-BNd0AAAAJ:eQOLeE2rZwMC:
@@ -46,7 +46,7 @@ papers:
     title: 'NeuRO: Inference-time Profiling and Orchestration of ML Applications at the Edge'
     year: '2026'
   my-BNd0AAAAJ:qjMakFHDy7sC:
-    citations: 1
+    citations: 2
     title: Temporal Difference Learning, Reinforcement Learning Approach To Determine Optimal Number Of Threads To Use For File Copying
     year: Unknown Year
   my-BNd0AAAAJ:u-x6o8ySG0sC:
