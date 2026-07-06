@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-06'
 papers:
   my-BNd0AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -42,7 +42,7 @@ papers:
     title: A hybrid attention mechanism for multi-target entity relation extraction using graph neural networks
     year: '2023'
   my-BNd0AAAAJ:eQOLeE2rZwMC:
-    citations: 0
+    citations: 1
     title: 'NeuRO: Inference-time Profiling and Orchestration of ML Applications at the Edge'
     year: '2026'
   my-BNd0AAAAJ:qjMakFHDy7sC:
@@ -60,8 +60,8 @@ papers:
   my-BNd0AAAAJ:ufrVoPGSRksC:
     citations: 0
     title: 'CAP: Optimal Pricing of Machine Learning Workloads at the Edge under Resource Contention'
-    year: Unknown Year
+    year: '2026'
   my-BNd0AAAAJ:zYLM7Y9cAGgC:
-    citations: 2
+    citations: 3
     title: 'Hawk: an industrial-strength multi-label document classifier'
     year: '2024'
