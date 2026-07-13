@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-13'
 papers:
   my-BNd0AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: Reinforcement learning-based control of crazyflie 2. x quadrotor
     year: '2023'
   my-BNd0AAAAJ:YsMSGLbcyi4C:
-    citations: 2
+    citations: 3
     title: 'PERX: Energy-aware O-RAN Service Orchestration with Pairwise Performance Profiling'
     year: '2025'
   my-BNd0AAAAJ:d1gkVwhDpl0C:
