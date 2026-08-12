@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-12'
 papers:
   my-BNd0AAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Temporal Difference Learning, Reinforcement Learning Approach To Determine Optimal Number Of Threads To Use For File Copying
     year: '2020'
   my-BNd0AAAAJ:9yKSN-GCB0IC:
-    citations: 67
+    citations: 66
     title: Performance optimization techniques for ReactJS
     year: '2019'
   my-BNd0AAAAJ:IjCSPb-OGe4C:
@@ -50,7 +50,7 @@ papers:
     title: Temporal Difference Learning, Reinforcement Learning Approach To Determine Optimal Number Of Threads To Use For File Copying
     year: Unknown Year
   my-BNd0AAAAJ:u-x6o8ySG0sC:
-    citations: 5
+    citations: 7
     title: An LSTM model for extracting hierarchical relations between words for better topic modeling
     year: '2021'
   my-BNd0AAAAJ:u5HHmVD_uO8C:
@@ -63,5 +63,5 @@ papers:
     year: '2026'
   my-BNd0AAAAJ:zYLM7Y9cAGgC:
     citations: 3
-    title: 'Hawk: an industrial-strength multi-label document classifier'
+    title: 'Hawk: An industrial-strength multi-label document classifier'
     year: '2024'
